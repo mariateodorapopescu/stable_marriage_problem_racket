@@ -1,6 +1,4 @@
-Sure, here's a catchy README for your Racket program:
-
-# Stable Marriage Problem Solver in Racket
+# Stable Marriage Problem in Racket
 
 Solve the age-old puzzle of stable marriages with elegance and efficiency using our Racket implementation. Whether you're fascinated by algorithms or simply curious about creating harmonious unions, this program is for you!
 
