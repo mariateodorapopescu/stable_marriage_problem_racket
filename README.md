@@ -15,7 +15,7 @@ The Stable Marriage Problem (SMP) involves matching an equal number of men and w
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository: `git clone https://github.com/mariateodorapopescu/stable_marriage_problem_racket.git`
 2. Run the program: `racket main.rkt`
 
 ## Usage
@@ -39,6 +39,4 @@ The Stable Marriage Problem (SMP) involves matching an equal number of men and w
 
 ## Contribute
 
-Feel free to contribute by opening issues or submitting pull requests. We welcome your insights and suggestions!
-
-Happy matching! 🌟
+Feel free to contribute by opening issues or submitting pull requests. Suggestions are always welcome!
